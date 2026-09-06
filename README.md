@@ -11,7 +11,7 @@ The main objective of this internship is to gain hands-on experience in **Data S
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Balkrishna**, a Computer Science student with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
+Hi! I'm **Balkrishna**, a Final year Computer Science student with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
 I enjoy learning new technologies, solving programming problems, analyzing data, and building practical projects that help me strengthen my technical and problem-solving skills.
 
