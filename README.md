@@ -167,7 +167,7 @@ CodeAlpha_DataScience/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/(https://github.com/asharma9166160-spec/CodeAlpha_DataScience/tree/main)
+git clone https://github.com/https://github.com/asharma9166160-spec/CodeAlpha_DataScience/tree/main
 ```
 
 ### 2. Navigate to the project directory
