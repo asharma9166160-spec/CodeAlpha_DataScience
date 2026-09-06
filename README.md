@@ -11,7 +11,7 @@ The main objective of this internship is to gain hands-on experience in **Data S
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Balkrishna Sharma**, a Computer Science student with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
+Hi! I'm **Balkrishna**, a Computer Science student with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
 I enjoy learning new technologies, solving programming problems, analyzing data, and building practical projects that help me strengthen my technical and problem-solving skills.
 
@@ -259,7 +259,7 @@ The internship certificate will be added to this repository after successful com
 
 ## 👨‍💻 Author
 
-**Balkrishna Sharma**
+**Balkrishna**
 
 Computer Science Student
 Aspiring Data Scientist & Machine Learning Enthusiast
@@ -269,10 +269,10 @@ Aspiring Data Scientist & Machine Learning Enthusiast
 ## 🤝 Connect With Me
 
 **GitHub:**
-`YOUR_GITHUB_PROFILE`
+`https://github.com/asharma9166160-spec`
 
 **LinkedIn:**
-`YOUR_LINKEDIN_PROFILE`
+`https://www.linkedin.com/in/balkrishna-sharma/`
 
 ---
 
