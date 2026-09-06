@@ -1,5 +1,5 @@
 # CodeAlpha_DataScience
-# 🚀 CodeAlpha Data Science Internship
+# 🚀 CodeAlpha Data Science Internship-Project Portfolio
 
 Welcome to my **CodeAlpha Data Science Internship** repository! 👋
 
